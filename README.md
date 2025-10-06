@@ -60,7 +60,5 @@ Follow these steps to get VibePick up and running on your local machine.
     # yarn start
     ```
     The application will open in your browser at `http://localhost:3000` (or another available port).
-
+    You can view the Application on https://vibe-pick.vercel.app 
 ---
-
-## Project Structure 📁
